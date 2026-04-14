@@ -1,1 +1,4 @@
 # claude-project-setup-steps
+
+## Learn from here.
+https://resources.leadgenman.com/ClaudeFolderSetup?fbclid=PAT01DUARGGGRleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadsv7WE0tve1CXehDWPPfx4vu06O-DvidwKdcD18bhSmeRjEBYVbfTHKYr85Q_aem_v7a0JAI8t8bsMbvROgGDpA
